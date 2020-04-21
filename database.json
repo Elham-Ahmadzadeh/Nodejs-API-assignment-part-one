@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Maverick White Men",
+      "price": 825,
+      "size": [
+        165,
+        175,
+        185,
+        192
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/41203960_412_039_60.png"
+    },
+    {
+      "id": 2,
+      "name": "loud Running Shoe All, White Women",
+      "price": 345,
+      "size": [
+        159,
+        169
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures//generated/product/1/380_340_100/42203430_422_034_30.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nordica Enforcer",
+      "price": 625,
+      "size": [
+        169,
+        177,
+        185,
+        193
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70001507_700_015_07.png"
+    },
+    {
+      "id": 4,
+      "name": "Kaptiva running shoe black ",
+      "price": 799,
+      "size": [
+        177,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures//generated/product/1/380_340_100/41200436_412_004_36.jpg"
+    },
+    {
+      "id": 5,
+      "name": "LA SPORTIVA Bushido",
+      "price": 425,
+      "size": [
+        165,
+        172
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures//generated/product/1/380_340_100/42200420_422_004_20.png"
+    },
+    {
+      "id": 6,
+      "name": "K2 Press",
+      "price": 299,
+      "size": [
+        177,
+        182,
+        187
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70005239_700_052_39.png"
+    },
+    {
+      "id": 7,
+      "name": "Black Crows Navis Freebird",
+      "price": 539,
+      "size": [
+        177,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70600307_706_003_07.png"
+    },
+    {
+      "id": 8,
+      "name": "Black Crows Junius Kids",
+      "price": 799,
+      "size": [
+        140,
+        145,
+        157
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70000301_700_003_01.png"
+    },
+    {
+      "id": 9,
+      "name": "Völkl Revolt",
+      "price": 399,
+      "size": [
+        175,
+        185,
+        189
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70001030_700_010_30.png"
+    },
+    {
+      "id": 10,
+      "name": "Armada Edgeless",
+      "price": 649,
+      "size": [
+        177,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70006528_700_065_28.png"
+    },
+    {},
+    {},
+    {},
+    {}
+  ],
+  "cart": []
+}
